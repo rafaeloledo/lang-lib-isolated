@@ -1,0 +1,5 @@
+#define Teste_VERSION_MAJOR @Teste_VERSION_MAJOR@
+#define Teste_VERSION_MINOR @Teste_VERSION_MINOR@
+#define Teste_VERSION_PATCH @Teste_VERSION_PATCH@
+
+void func(int i, int i2, int i3);
